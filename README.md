@@ -1,17 +1,18 @@
-# Hi there 👋, I'm Parnika Singh
+# Hi there! 👋 I'm Parnika Singh
 
-### 🚀 Machine Learning Enthusiast | AI Intern | Embedded Systems Developer
+🚀 **Bridging AI & Embedded Systems | ML Enthusiast | Automation Innovator**
 
-I am a final-year B.Tech CSE (Machine Learning) student at Gautam Buddha University, with a strong passion for AI, embedded systems, and automation. My expertise lies in developing machine learning models, working with microcontrollers like ESP32/ESP8266, and integrating AI with hardware.
+I’m a **final-year B.Tech CSE (Machine Learning) student** at **Gautam Buddha University**, driven by a passion for fusing **AI and hardware** to build cutting-edge **automation solutions**. Whether it's crafting **intelligent systems**, fine-tuning **machine learning models**, or pushing the boundaries of **data-driven innovation**, I thrive on turning ideas into reality.
 
-## 📫 Connect with Me:
-- 📧 Email: [singh.parnika07@gmail.com](mailto:singh.parnika07@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/parnika-singh07](https://www.linkedin.com/in/parnika-singh07)
+💡 From **training AI models** to **engineering smart automation**, I’m always eager to tackle challenges that blend **software intelligence with real-world applications**.
 
-## 🏫 Education:
-🎓 **Gautam Buddha University** (2021 - 2025)  
-- B.Tech in Computer Science & Engineering (Machine Learning)  
-- **CGPA:** 9.52
+💡 Whether it’s **optimizing ML algorithms**, architecting **data science pipelines**, or developing **AI-powered IoT solutions**, I’m all about **solving complex problems** where **code meets circuits**.
+
+## 🎯 What I Do:  
+🔹 Design & optimize **machine learning models** for impactful applications  
+🔹 Extract meaningful insights from **data science projects**  
+🔹 Develop **AI-driven IoT & automation solutions** that bridge the digital-physical world  
+🔹 Streamline workflows using **Selenium & intelligent systems** for seamless automation 
 
 ## 💻 Tech Stack
 
@@ -29,3 +30,6 @@ I am a final-year B.Tech CSE (Machine Learning) student at Gautam Buddha Univers
 
 ### **Tools & Automation**  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Tinkercad](https://img.shields.io/badge/Tinkercad-F37726?style=for-the-badge&logo=tinkercad&logoColor=white)  
+
+## 🧠 Fun Fact 
+I sometimes talk to my AI models like they're my teammates—until they start overfitting, then it's just an argument! 😆
