@@ -1,35 +1,103 @@
-# Hi there! 👋 I'm Parnika Singh
+# Hey, I'm Parnika 👋
 
-🚀 **Bridging AI & Embedded Systems | ML Enthusiast | Automation Innovator**
+I'm a backend engineer based in New Delhi, building production systems at the intersection of **Python APIs, cloud infrastructure, and ML-integrated products**. Currently shipping identity & fintech platforms at [U2opia](https://u2opia.com) — and always open to remote work and freelance projects on the side.
 
-I’m a **final-year B.Tech CSE (Machine Learning) student** at **Gautam Buddha University**, driven by a passion for fusing **AI and hardware** to build cutting-edge **automation solutions**. Whether it's crafting **intelligent systems**, fine-tuning **machine learning models**, or pushing the boundaries of **data-driven innovation**, I thrive on turning ideas into reality.
+I care about systems that actually work in production: fast, compliant, and maintainable. Less buzzword soup, more shipped code.
 
-💡 From **training AI models** to **engineering smart automation**, I’m always eager to tackle challenges that blend **software intelligence with real-world applications**.
+---
 
-💡 Whether it’s **optimizing ML algorithms**, architecting **data science pipelines**, or developing **AI-powered IoT solutions**, I’m all about **solving complex problems** where **code meets circuits**.
+## What I Actually Build
 
-## 🎯 What I Do:  
-🔹 Design & optimize **machine learning models** for impactful applications  
-🔹 Extract meaningful insights from **data science projects**  
-🔹 Develop **AI-driven IoT & automation solutions** that bridge the digital-physical world  
-🔹 Streamline workflows using **Selenium & intelligent systems** for seamless automation 
+```
+FastAPI / Spring Boot backends     →   REST APIs, auth flows, data pipelines
+Identity & KYC platforms           →   Face liveness, document verification, multi-region compliance
+ML-integrated products             →   Anomaly detection, computer vision, model deployment
+IoT + Edge systems                 →   Sensor pipelines, embedded devices, cloud connectivity
+AWS infrastructure                 →   Rekognition, S3, EC2, Lambda
+```
 
-## 💻 Tech Stack
+---
 
-### **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
+## Work That's Live
 
-### **Web & App Development**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
+### 🔐 eKYC NOW — Production KYC & Identity Platform
+*FastAPI · AWS Rekognition · React · Multi-region compliance*
 
-### **Databases & Cloud**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+End-to-end KYC platform I led from zero to production, targeting India and UAE. Real-time face liveness detection, identity document verification, and onboarding workflows — all under 300ms p95 latency. Reduced manual onboarding effort by ~60% for client ops teams. Shipped from MVP to go-live in 3 months.
 
-### **Embedded Systems & IoT**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-003B57?style=for-the-badge&logo=espressif&logoColor=white) ![Renesas](https://img.shields.io/badge/Renesas-002E6E?style=for-the-badge&logo=renesas&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) 
+### 📡 Telco VAS Platform — Polish Operator
+*Java · Spring Boot · MySQL*
 
-### **Tools & Automation**  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Tinkercad](https://img.shields.io/badge/Tinkercad-F37726?style=for-the-badge&logo=tinkercad&logoColor=white)  
+Designed and shipped the full charging, subscription, and unsubscription flow for a telecom value-added services platform. Zero-defect launch in production.
 
-## 🧠 Fun Fact 
-I sometimes talk to my AI models like they're my teammates—until they start overfitting, then it's just an argument! 😆
+### 🔄 Mojox Platform Migration (Python 3.6 → 3.12)
+*Python · CI/CD · 13+ repositories*
+
+Owned the full migration of a live gaming platform across 13 repos — restored CI reliability and unblocked deployments within a 6-week window.
+
+---
+
+## Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [OncoVision](https://github.com/parnika-singh/OncoVision) | Breast cancer classification — 96% accuracy with confidence scoring | Scikit-Learn, XGBoost, SVM |
+| [Home Gesturize](https://github.com/parnika-singh/Home-Gesturize) | Real-time gesture-controlled home automation, <100ms latency | ESP32, MediaPipe, KNN, Python |
+| [Coffee Roasting Quality Prediction](https://github.com/parnika-singh/Coffee-Roasting-Quality-Prediction) | Neural net trained on chemical composition data to grade roast quality | TensorFlow, Python |
+
+---
+
+## 🔧 Currently Building: Edge Predictive Maintenance System
+
+An end-to-end IoT pipeline for predictive maintenance — the kind of thing that would actually run in a factory or remote site.
+
+**Setup:**
+- **Edge device:** Raspberry Pi 4
+- **Sensor:** DHT22 temperature & humidity sensor (2-wire: data pin → GPIO4, VCC → 3.3V, GND → GND — wiring is dead simple, no extra components needed)
+- **Cellular connectivity:** Quectel EVB (EC25) for sending data over 4G when Wi-Fi isn't available
+- **Language:** Python throughout
+
+**What it does (in progress):**
+- [x] Read live temperature/humidity data on the Pi
+- [x] Basic threshold-based anomaly detection (flag readings outside normal range)
+- [ ] Send alerts + data to a cloud API via the Quectel cellular module (AT commands over serial)
+- [ ] Store time-series data and visualize trends on a dashboard
+- [ ] Run a lightweight ML model (Isolation Forest or similar) on the edge for anomaly scoring
+
+The goal is a minimal but realistic predictive maintenance loop — sense → process → transmit → visualize — built with off-the-shelf hardware and clean Python code. Will be open-sourced with full wiring diagrams and setup docs when stable.
+
+---
+
+## Tech Stack
+
+**Backend:** Python (FastAPI, Django DRF) · Java (Spring Boot) · REST APIs · MQTT
+
+**ML / AI:** TensorFlow · PyTorch · Scikit-Learn · OpenCV · NLP · Computer Vision
+
+**Cloud & Infra:** AWS (Rekognition, S3, EC2, Lambda) · Docker · Linux
+
+**Databases:** MySQL · Redis · SQLite3 · MariaDB
+
+**Embedded & IoT:** Raspberry Pi · Arduino · ESP32 · NodeMCU · Renesas · MQTT
+
+**Frontend:** React.js · TypeScript · HTML/CSS
+
+**Tools:** Postman · Git · Streamlit · Selenium
+
+---
+
+## A Bit More
+
+- 📄 Published at **ICCCESB 2025** — *Cognitive Intelligence and Big Data: A Symbiotic Approach to Predictive Analytics in Healthcare*
+- 🎓 B.Tech CSE (Machine Learning), Gautam Buddha University — CGPA 9.43
+- 🌍 Built systems running live across India, UAE, Poland, and Africa
+
+---
+
+## Let's Work Together
+
+I'm open to **remote roles** and **freelance projects** — especially anything involving backend APIs, ML integration, cloud infrastructure, or IoT pipelines.
+
+📧 [singh.parnika07@gmail.com](mailto:singh.parnika07@gmail.com)
+💼 [linkedin.com/in/parnika-singh07](https://linkedin.com/in/parnika-singh07)
+🧩 [leetcode.com/u/parnika_singh07](https://leetcode.com/u/parnika_singh07/)
